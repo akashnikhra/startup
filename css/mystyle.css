@@ -1,0 +1,21 @@
+.tagline>p{
+	font-size: 25px;
+}
+
+#service .single_service_content p,
+#service .learn_more a{
+	color: white
+}
+
+#service .section_heading h2{
+	font-size: 50px;
+	color: white;
+}
+
+.testimonial .section_heading h2{
+	font-size: 40px;
+}
+
+.cool_facts_area h1{
+	color: white;
+}
